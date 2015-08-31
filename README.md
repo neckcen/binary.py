@@ -5,9 +5,6 @@ A python library to manipulate binary data.
 
 * Python 3.3+
 
-You should also probably 
-[know about endianness](https://en.wikipedia.org/wiki/Endianness)
-
 ## Installation
 
 1. [Get the latest version.](https://github.com/neckcen/femto/releases/latest)
